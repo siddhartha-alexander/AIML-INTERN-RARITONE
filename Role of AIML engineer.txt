@@ -1,0 +1,9 @@
+An AIML engineer is a software engineer who designs ,builds,trains,deploys and maintains 
+artificial intelligence and machine learning systems that can learn from data and makes 
+predictions or decisions.
+
+Think of it like
+
+a software engineer write software that follow certain rules
+but an AIML engineer builds software that learns pattern from data instead relying on
+predifined models
