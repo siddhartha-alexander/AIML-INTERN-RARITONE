@@ -1,0 +1,2 @@
+Numpy is short for Numerical Python, it is a python library used for numerical computing,
+it is used in fields like Data Science,AIML engineering .
